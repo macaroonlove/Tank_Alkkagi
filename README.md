@@ -31,14 +31,9 @@
 ##### 총알 발사 후, 내려오는 과정에 바위에 부딪히면 파괴
 ![Heli](https://github.com/macaroonlove/Tank_Alkkagi/assets/87137181/1163f1f9-b356-40c7-adce-0859b8654b4d)
 
-<br>
 ## 소리 설정
-
 ![3호기_Moment (2)](https://github.com/macaroonlove/Tank_Alkkagi/assets/87137181/a0e55a5b-f524-48bc-b175-a2f7475c29cb)
 
-
-<br>
 ## 승리조건
 ### 상대의 모든 군용차를 떨어뜨리면 승리!
-
 ![4호_Moment (2)](https://github.com/macaroonlove/Tank_Alkkagi/assets/87137181/19e56112-8bcd-49fc-bac3-ecdf542a9971)
